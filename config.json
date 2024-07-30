@@ -1,0 +1,19 @@
+{
+  "APPLY": {
+    "GANGS": {
+      "NAME": "Rolex Staff",
+      "BANNER": "https://media.discordapp.net/attachments/1056339693882572920/1244833584137768980/INFO_RO_XXX_00000.png?ex=66a8f2de&is=66a7a15e&hm=10373c90baf54a6035b9eb770e5ce23cffb853461491d5d34670d6c20ef0e28b&=&format=webp&quality=lossless&width=1152&height=456",
+      "DATA": [
+        {
+          "name": "Rolex Staff",
+          "emoji": "🟢",
+          "CHANNEL": "1267652273190867028",
+          "role": "1249697043585302671",
+          "role2": "1249697042763223040"
+        }
+      ]
+    }
+
+
+  }
+}
